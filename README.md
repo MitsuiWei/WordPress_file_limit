@@ -1,1 +1,2 @@
 # WordPress_file_limit
+#限制WordPress媒體庫限制圖片寬度小於2000px。上傳檔案大小小於2MB
